@@ -1,0 +1,45 @@
+.Contact__TEST {
+  display: grid;
+  justify-content: center;
+}
+
+.Contact__FirstDiv {
+  background-color: #fdaeea;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 400px;
+  max-height: 100%;
+  box-shadow: 10px 10px 10px 10px grey;
+}
+.Contact__container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.Contact__Hide {
+  display: none;
+}
+.Contact__TextField {
+  display: center;
+}
+
+input[type="text"],
+select,
+textarea,
+.Contact__Email {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-bottom: 5px; /* Bottom margin */
+  box-shadow: 3px 5px 5px grey;
+}
+
+.Contact__MessageField {
+  height: auto;
+}
+
+.Contact__SubmitButton {
+  margin-top: 20px;
+}

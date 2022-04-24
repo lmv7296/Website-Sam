@@ -1,0 +1,81 @@
+
+[
+    {
+      "productId":"PR001",
+      "title": "Badcape met naam sierlijk",
+      "image": "",
+      "description": "Badcape met sierlijke Text",
+      "price": "14,95",
+      "category": "Badkamer",
+      "isOffer": ,
+      "isNew":false,
+      "offerPercentage":
+    },
+    {
+        "productId":"PR002",
+        "title": "Badcape met naam Stoer",
+        "image": "",
+        "description": "Badcape met Stoere Text",
+        "price": "14,95",
+        "category": "Badkamer",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+      {
+        "productId":"PR003",
+        "title": "Badcape met naam en sterren",
+        "image": "",
+        "description": "Badcape met text en sterren",
+        "price": "14,95",
+        "category": "Badkamer",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+    {
+        "productId":"PR004",
+        "title": "Felix beer bruin",
+        "image": "",
+        "description": "beer bruine kleur",
+        "price": "19,95",
+        "category": "Baby",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+      {
+        "productId":"PR005",
+        "title": "Felix beer roze",
+        "image": "",
+        "description": "Beer roze kleur",
+        "price": "19,95" ,
+        "category": "Baby",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+      {
+        "productId":"PR006",
+        "title": "Feliz beer Blauw",
+        "image": "",
+        "description": "beer Blauwe kleur",
+        "price": "19,95",
+        "category": "Baby",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+      {
+        "productId":"PR00",
+        "title": "",
+        "image": "",
+        "description": "",
+        "price": ,
+        "category": "",
+        "isOffer": ,
+        "isNew":false,
+        "offerPercentage":
+      },
+
+  ]

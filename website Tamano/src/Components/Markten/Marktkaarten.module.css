@@ -1,0 +1,21 @@
+.Marktkaarten__picture {
+  max-width: 100%;
+}
+.Marktkaarten__Cards {
+  border: 5px solid;
+  margin: 5px;
+  max-width: 100%;
+  border-radius: 5%;
+  box-shadow: 5px 10px 18px black;
+}
+.Marktkaarten__LayoutCards {
+  display: flex;
+  margin-bottom: 25px;
+  max-width: 100%;
+}
+.Marktkaarten__Textonthetopofthepage {
+  font-weight: 700;
+}
+.Marktkaarten__GeenmarktTXT {
+  padding-top: 30px;
+}

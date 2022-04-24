@@ -1,0 +1,12 @@
+//   Format to copy for the use of more products
+       {
+         "productId":"PR00",
+         "title": "",
+         "image": "",
+        "description": "",
+        "price": ,
+     "category": "",
+        "isOffer":,
+     "isNew":false,
+        "offerPercentage":
+      },
