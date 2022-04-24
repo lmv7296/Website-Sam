@@ -2,6 +2,7 @@
   "name": "website-tamano",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lmv7296.github.io/Website-Sam/",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
@@ -16,6 +17,7 @@
     "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4"
+    
   },
   "scripts": {
     "start": "react-scripts start",
