@@ -8,7 +8,7 @@ import Checkout from "./Components/Checkout/Checkout";
 function App() {
   return (
     <div className="App">
-      ( <BrowserRouter basename={process.env.PUBLIC_URL}> ) 
+       <BrowserRouter> 
         <Header />
         <Routes>
           <Route path="/Giftandmorebysam/Contact" element={<Contact />} />
